@@ -1,5 +1,4 @@
 import React from "react";
-import Img1 from "../images/1.png";
 
 function Carousel() {
 	return (
