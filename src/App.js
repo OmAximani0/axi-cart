@@ -1,12 +1,11 @@
-import React from "react";
-import { Switch, Redirect, Route } from "react-router-dom";
+import React from "react"; import { Switch, Redirect, Route } from "react-router-dom";
 
 //* Custom Components
 import Navbar from "./components/Navbar";
 
 //* Custom Pages
 import Home from "./pages/Home";
-// import Cart from "./pages/Cart";
+//  import Cart from "./pages/Cart";
 import Cover from "./pages/Cover";
 import Skin from "./pages/Skin";
 
